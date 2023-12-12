@@ -21,12 +21,12 @@ The **React Dual Counter** is a web application built with React that features t
 
 1. Clone this repository to your local machine.
  ```
-git clone https://github.com/Hasnat-Ahmed-Goheer/counter-app.git
+git clone https://github.com/Hasnat-Ahmed-Goheer/Dual-counter-app.git
 ```
 
 2. Navigate to the project directory.
 ```
-cd counter-app
+cd Dual-counter-app
 ```
 
 3. Install dependencies.
